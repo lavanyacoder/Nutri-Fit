@@ -56,10 +56,3 @@ Let’s have a look at the app!
 
 ---
 
-## 🧑‍💻 Getting Started (for Devs)
-
-```bash
-git clone https://github.com/Iamdivya16/Nutri-Fit.git
-cd Nutri-Fit
-flutter pub get
-flutter run
